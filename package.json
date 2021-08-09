@@ -1,6 +1,9 @@
 {
-  "name": "vuexy-vuejs-html-laravel-dashboard-admin-template",
-  "version": "4.0.0",
+  "name": "<%=pkgName%>",
+  "version": "<%=pkgVersion%>",
+  "autor": "<%=pkgAutor%>",
+  "description": "<%=pkgDesc%>",
+  "license": "<%=pkgLicense%>",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
